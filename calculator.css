@@ -1,0 +1,37 @@
+body{
+    background-color: black;
+}
+
+button{
+    margin: 6px;
+    border-radius: 70%;
+    padding: 40px;
+    border: none;
+    font-size: 24px;
+    font-weight: bolder;
+    background-color: #333;
+    color: white;
+}
+
+input{
+    height: 100px;
+    width: 420px;
+    font-size: 25px;
+    padding: 0 15px;
+    text-align: right;
+    border-radius: 20px;
+}
+
+button.clear{
+    color: red;
+}
+
+button.operator{
+    background-color: green;
+    font-size: large;
+    color: antiquewhite;
+}
+
+button.operators{
+    color: green;
+}
